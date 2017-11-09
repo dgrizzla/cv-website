@@ -1,13 +1,13 @@
 .background-blur {
     padding: 0;
-    margin: 0;
+    
     color: #000;
    
     position:absolute; 
-    top:0; height:100%; width:100%;
+    height:100%; width:100%;
     left:0;
    
-    background-image: url(./images/back.jpg);
+    background-image: url(../images/back3.jpg);
     background-position: center center;
     background-repeat: no-repeat;
     background-attachment: fixed;
