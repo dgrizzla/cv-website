@@ -22,7 +22,3 @@ $(document)
 
 		
 	});
-
-function lmao(params) {
-	console.log(params)
-}
